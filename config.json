@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsspdate",
+        "uuid": 2324543,
+        "checksum": "0xnk3"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
